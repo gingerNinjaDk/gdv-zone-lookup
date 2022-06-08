@@ -1,0 +1,23 @@
+{
+  "name": "gdv-zone-lookup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gingerNinjaDk/gdv-zone-lookup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gingerNinjaDk/gdv-zone-lookup/issues"
+  },
+  "homepage": "https://github.com/gingerNinjaDk/gdv-zone-lookup#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

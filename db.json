@@ -1,0 +1,24 @@
+{
+    "zones": [
+        {
+         "id" : "0",
+         "breed": "Zone 0",
+         "zone": 1
+        },
+        {
+            "id" : "1",
+           "breed": "Zone 0",
+           "zone": 2
+       },
+       {
+        "id" : "3",
+        "breed": "Zone 0",
+        "zone": 1
+        },
+        {
+            "id" : "4",
+            "breed": "Zone 0",
+            "zone": 5
+            }
+]
+}
